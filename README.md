@@ -9,3 +9,4 @@ For example, when the present time is shown on the calendar, the background chan
 
 The current time is displayed in the jumbotron and changed dynamically with each day.
 
+/Users/coreyspratlan/Desktop/Screen Shot 2020-06-25 at 10.32.34 PM.png
